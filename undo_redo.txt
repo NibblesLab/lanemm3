@@ -1,0 +1,14 @@
+RPW
+
+	Undo Commands
+	     1.	||Compilation Report||Fitter||Fitter Summary
+	     2.	||Compilation Report||Fitter||Fitter Settings
+	     3.	||Compilation Report||Fitter||Parallel Compilation
+	     4.	||Compilation Report||Fitter||Fitter Settings
+	     5.	||Compilation Report||Fitter||Resource Section||Input Pins
+	     6.	||Compilation Report||Fitter||Resource Section||Output Pins
+	     7.	||Compilation Report||Fitter||Fitter Device Options
+	     8.	||Compilation Report||Fitter||Pin-Out File
+	     9.	||Compilation Report||Flow Summary
+
+

@@ -1,0 +1,16 @@
+
+
+D:/develop/lanemm3/flash.vhd
+
+Aug 24 11PM:00:43>: Megafunction Flash Memory is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/develop/lanemm3/flash.vhd
+
+Aug 24 11PM:01:11>: Megafunction Flash Memory is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/develop/lanemm3/flash.vhd
+
+Aug 24 11PM:02:30>: Megafunction Flash Memory is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
